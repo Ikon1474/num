@@ -1,0 +1,7 @@
+{
+  "name": "number-info-portal",
+  "require": {
+    "php": ">=8.0",
+    "giggsey/libphonenumber-for-php": "^8.13"
+  }
+}
